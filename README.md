@@ -2,8 +2,8 @@
 Este proyecto pretende mostrar un ejemplo de como configurar un entorno en el que poder realizar códigos y pruebas.
 
 1. Dividimos el entorno en 2 carpetas
-    1.1 src: código
-    1.2 test: donde tendremos todos los archivos test_*.py para poder hacer las pruebas 
+    1.1 src: código \n
+    1.2 test: donde tendremos todos los archivos test_*.py para poder hacer las pruebas \n 
 
 2. Instalaremos utilizando pip: pytest y pytest-spec
 3. A la misma altura de las carpetas src y test creamos el archivo de configuración de pytest 'pytest.ini', con la siguiente configuración:
